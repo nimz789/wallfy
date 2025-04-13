@@ -4,7 +4,7 @@ const wallpapers = [
         id: 1,
         category: 'cars',
         previewUrl: 'https://i.imgur.com/2koIgol.png',
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=10HkOwHQADSp6dZfC0lnPKWBlxqflH-WU&export=download&authuser=0&confirm=t&uuid=8f17aa38-5d20-48e9-92c1-00e3adb3f576&at=APcmpoziJmqWcYlNZD2t4mVeXWcy:1744206978970'
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1qCrejtS6j9sLEe_ntLor_i1fqetaZurB&export=download&authuser=0&confirm=t&uuid=e99ab091-22cc-4741-9266-47d30cd7bf3f&at=APcmpoypi3Zi_3Yc3tujMXPRoTq3:1744527943076'
     },
     {
         id: 2,
@@ -57,20 +57,26 @@ const wallpapers = [
     {
         id: 10,
         category: 'fantasy',
-        previewUrl: 'https://i.imgur.com/gqfsQxY.png',
-        downloadUrl: 'https://i.imgur.com/gqfsQxY.png'
+        previewUrl: 'https://i.ibb.co/Fkx0hhNb/image-fx-25-1.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1axMD84NFBrr6IlZYbs1WahP_G8OBPtQW&export=download&authuser=0&confirm=t&uuid=fd409d14-d616-484d-aa03-151d29e724f6&at=APcmpowwuUEVa9ra1lRUpAI43fYj:1744527759294'
     },
     {
         id: 11,
         category: 'fantasy',
-        previewUrl: 'https://i.imgur.com/JGQK9W7.jpeg',
-        downloadUrl: 'https://i.imgur.com/JGQK9W7.jpeg'
+        previewUrl: 'https://i.ibb.co/prrD3gfK/image-fx-37-1.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1PbqzX-UdQ754OKa2JD8xt-2qB2tC0S4o&export=download&authuser=0&confirm=t&uuid=925e09a7-14dd-4138-be98-c9594b0e20e0&at=APcmpoxFlDCq8X-4cI57OrN5CpJp:1744527980155'
     },
     {
         id: 12,
         category: 'animated',
-        previewUrl: 'https://i.imgur.com/uWpZxJv.jpeg',
-        downloadUrl: 'https://i.imgur.com/uWpZxJv.jpeg'
+        previewUrl: 'https://i.ibb.co/xKTk6gtf/image-fx-43-1.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1_La4fmbgkOxarRrGI1eyx8Hqqpz_osfG&export=download&authuser=0&confirm=t&uuid=2105b474-4883-4788-af65-69e1491c9a12&at=APcmpozZjEks7zIiNfxnPnPt-AGH:1744528199336'
+    },
+    {
+        id: 13,
+        category: 'fantasy',
+        previewUrl: 'https://i.ibb.co/cSFzbM4c/image-fx-2025-04-10-T124653-984-1.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1sCC5Zoi5AcjPJwXdJkRgcvIgbvz2nGoZ&export=download&authuser=0&confirm=t&uuid=bf8d167a-594f-46bd-ba09-b9a424640b69&at=APcmpow9-CnUyBgFdHHxxITyF7fn:1744528336008'
     }
 ];
 
