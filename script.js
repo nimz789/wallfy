@@ -51,8 +51,8 @@ const wallpapers = [
     {
         id: 9,
         category: 'fantasy',
-        previewUrl: 'https://i.imgur.com/5Xcxj7K.png',
-        downloadUrl: 'https://i.imgur.com/5Xcxj7K.png'
+        previewUrl: 'https://i.ibb.co/5Xcxj7KQ/image-fx-2025-04-12-T003944-697.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1WmIgR_H7XPt_CuNnN_umYSEP4tkiLhK1&export=download&authuser=0&confirm=t&uuid=a89b66a8-7328-469b-bc9a-c2672252e251&at=APcmpowu9mjGcVBmAB2NlGJkFF1a:1744525446988'
     },
     {
         id: 10,
