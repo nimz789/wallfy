@@ -77,7 +77,14 @@ const wallpapers = [
         category: 'fantasy',
         previewUrl: 'https://i.ibb.co/cSFzbM4c/image-fx-2025-04-10-T124653-984-1.png',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1sCC5Zoi5AcjPJwXdJkRgcvIgbvz2nGoZ&export=download&authuser=0&confirm=t&uuid=bf8d167a-594f-46bd-ba09-b9a424640b69&at=APcmpow9-CnUyBgFdHHxxITyF7fn:1744528336008'
+    },
+    {
+        id: 14,
+        category: 'fantasy',
+        previewUrl: 'https://i.imgur.com/nP5zm7u.png',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=19Z1iH5dzX6G7-ItDmHYGu3wmDS5cZacD&export=download&authuser=0&confirm=t&uuid=300d1e1a-b8ed-4fa7-bd69-0677542871da&at=APcmpoz37RGkHyPzRnWWJgKzHaGK:1744609437083'
     }
+
 ];
 
 // DOM Elements
